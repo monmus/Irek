@@ -449,7 +449,7 @@ body {
     padding: 10px 0;
     font-size: 1em;
     line-height: 1.3em;
-    text-align: justify;
+    text-align: left;
     column-gap: 30px;
 }
 
@@ -489,14 +489,14 @@ body {
     padding: 15px 0;
     font-size: 1em;
     line-height: 1.3em;
-    text-align: justify;
+    text-align: left;
     column-gap: 30px;
 }
 
 .contact p {
     font-size: 1em;
     line-height: 1.3em;
-    text-align: justify;
+    text-align: left;
     column-gap: 30px;
 }
 
