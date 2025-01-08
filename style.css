@@ -749,7 +749,7 @@ footer p {
     }
 
     .parallaxOne, .parallaxTwo {
-        /* display: none; */
+        background-attachment: unset;
     }
 
     .contact{
